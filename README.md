@@ -66,3 +66,14 @@ I enjoy working close to product and engineering teams, balancing clean architec
   <a href="https://www.linkedin.com/in/fbrissi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wa.me/+5514991434121" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://commit-history.com/fbrissi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/fbrissi?theme=dark" />
+      <img alt="fbrissi's commit history" src="https://commit-history.com/embed/fbrissi" />
+    </picture>
+  </a>
+</div>
