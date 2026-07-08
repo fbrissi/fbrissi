@@ -2,78 +2,153 @@
   <img src="./assets/linkedin-cover.jpg" alt="Filipe Bojikian Rissi cover" width="100%" />
 </p>
 
-Senior Software Engineer from Bauru, Sao Paulo, Brazil, with 15+ years of experience building scalable software, integrating systems, and turning business needs into reliable products.
+<h1 align="center">Hi 👋 I'm Filipe Bojikian Rissi</h1>
 
-I enjoy working close to product and engineering teams, balancing clean architecture, pragmatic delivery, automation, and long-term maintainability. My background spans backend development, web applications, platform tooling, integrations, testing, and cloud-friendly systems.
-
-## What I Work With
-
-- Backend engineering, APIs, integrations, and distributed systems
-- Web applications, browser extensions, and internal tools
-- System design, maintainability, refactoring, and technical decisions
-- Automation, scripting, containers, CI/CD, and developer experience
-- Agile delivery, mentoring, collaboration, and product-minded engineering
-
-## Main Stack
-
-**Languages**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Shell" width="42" height="42" />
+<p align="center">
+Staff Software Engineer • Backend Specialist • Cloud & Platform Engineering
 </p>
 
-**Backend & Web**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
+<p align="center">
+🇧🇷 Bauru, São Paulo, Brazil • UTC-3 <br/>
+🌎 Open to Remote Opportunities
 </p>
 
-**Data & Infrastructure**
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" alt="Helm" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
-</p>
+## About Me
+
+I'm a **Staff Software Engineer** with **15+ years of experience** building scalable software, APIs, cloud-native platforms, distributed systems, and business-critical applications.
+
+Although I enjoy working across the entire stack, my expertise is focused on **Backend Engineering**, **Cloud Architecture**, **Platform Engineering**, and **System Design**.
+
+I value clean architecture, automation, maintainability, performance, and delivering software that solves real business problems.
+
+---
+
+## Areas of Expertise
+
+- Backend Engineering
+- Distributed Systems
+- Cloud Architecture
+- REST APIs
+- Microservices
+- Platform Engineering
+- DevOps & CI/CD
+- Software Architecture
+- Technical Leadership
+- Performance & Scalability
+- Automation
+- Full Stack Development
+
+---
+
+# Tech Stack
 
 ## Languages
 
-- Portuguese: native
-- English: professional working proficiency
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42"/>
+</p>
+
+## Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42"/>
+</p>
+
+## Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42"/>
+</p>
+
+## Mobile
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42"/>
+</p>
+
+## Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="42"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42"/>
+</p>
+
+## Architecture & Platforms
+
+![Microservices](https://img.shields.io/badge/Microservices-blue?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-green?style=flat-square)
+![Event Driven](https://img.shields.io/badge/Event_Driven-orange?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-success?style=flat-square)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-success?style=flat-square)
+![Keycloak](https://img.shields.io/badge/Keycloak-red?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=flat-square)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square)
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square)
+
+---
+
+## Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Professional Working Proficiency
+
+---
 
 ## Contact
 
-<!-- Replace YOUR_EMAIL_HERE with the public email address you want to expose. -->
+<p>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<div>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/fbrissi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/+5514991434121" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</div>
+  <a href="https://www.linkedin.com/in/fbrissi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<br/>
+  <a href="https://wa.me/5514991434121">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <a href="https://commit-history.com/fbrissi">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/fbrissi?theme=dark" />
-      <img alt="fbrissi's commit history" src="https://commit-history.com/embed/fbrissi" />
-    </picture>
-  </a>
+
+[![Commit History](https://commit-history.com/embed/fbrissi)](https://commit-history.com/fbrissi)
+
 </div>
