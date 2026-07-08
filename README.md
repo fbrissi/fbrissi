@@ -2,6 +2,19 @@
   <img src="./assets/linkedin-cover.jpg" alt="Filipe Bojikian Rissi cover" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋 I'm Filipe Bojikian Rissi</h1>
+
+<p align="center">
+Backend Engineering • Cloud Architecture • Platform Engineering • Full Stack
+</p>
+
+<p align="center">
+🇧🇷 Bauru, São Paulo, Brazil • UTC-3 <br/>
+🌎 Open to Remote Opportunities
+</p>
+
+---
+
 # About Me
 
 I'm a **Staff Software Engineer** with **15+ years of experience** designing and building scalable backend systems, cloud-native platforms, APIs, integrations, and distributed applications.
