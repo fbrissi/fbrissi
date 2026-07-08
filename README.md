@@ -139,7 +139,7 @@ I enjoy building software that remains simple to operate, easy to evolve, reliab
 ## Languages
 
 - 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Professional Working Proficiency
+- 🇺🇸 English — Intermediate (comfortable in technical discussions)
 
 ---
 
